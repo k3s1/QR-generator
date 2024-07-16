@@ -27,3 +27,12 @@ node index.js
 3.The QR code will be generated and saved as qr.png.
 
 4.The URL will also be saved in url1.txt.
+
+## Example
+
+```bash
+$ node index.js
+? Enter URL: https://example.com
+QR created!
+The file has been saved!
+```
