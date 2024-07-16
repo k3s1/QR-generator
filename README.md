@@ -23,5 +23,7 @@ This simple QR code generator allows you to create QR codes from URLs. It uses t
 node index.js
 ```
 2.You’ll be prompted to enter a URL.
+
 3.The QR code will be generated and saved as qr.png.
+
 4.The URL will also be saved in url1.txt.
